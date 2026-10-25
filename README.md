@@ -6,20 +6,15 @@
 
 A checklist for the [Omarchy](https://omarchy.org/) bar. Add an item, read it, tick it off, and bring it back from the bin if you ticked it by mistake. No accounts, no sync, nothing to configure.
 
-<!-- Add preview.png / preview.gif to the repo root and uncomment:
-![Tickmark Todo panel](preview.png)
-![Tickmark Todo demo](preview.gif)
--->
-
 Use it as a general checklist or a lightweight todo list. The whole plugin is three small files, and your data is a plain JSON file you can read, back up, or edit by hand.
 
 **Empty list:**
 
-![tickmark_nolist_preview.png](/home/manu/Projects/omarchy-tickmark/tickmark_nolist_preview.png)
+![tickmark_nolist_preview.png](tickmark_nolist_preview.png)
 
 **Three item:**
 
-![tickmark_preview.webp](/home/manu/Projects/omarchy-tickmark/tickmark_preview.webp)
+![tickmark_preview.webp](tickmark_preview.webp)
 
 ## Features
 
@@ -33,7 +28,7 @@ Use it as a general checklist or a lightweight todo list. The whole plugin is th
 - **Scriptable**: list, add, edit and remove items from the terminal via IPC.
 - **Zero dependencies**: no scripts, no services, no network.
 
-<img src="/home/manu/.config/marktext/images/c493405a5b1125757ff4f43d58819b7e51c70c4a.gif" title="" alt="" width="494" />
+<img src="tickmark_features_preview.gif" title="" alt="" width="494" />
 
 ## Installation
 
