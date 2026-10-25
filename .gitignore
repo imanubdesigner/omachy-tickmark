@@ -1,0 +1,3 @@
+*.bak
+*.diagnostic-backup
+.DS_Store

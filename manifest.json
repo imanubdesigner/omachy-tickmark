@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.imanubdesigner.tickmark",
+  "name": "Tickmark Todo",
+  "version": "1.0.0",
+  "author": "imanubdesigner",
+  "license": "MIT",
+  "description": "A tiny todo list in the Omarchy bar. Add items with a name and a description, tick them off into a bin you can restore from, and edit anything with a right-click.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Tickmark Todo",
+    "description": "A tiny todo list in the bar. The icon shows how many are open. Tick items off into a restorable bin; right-click an item to edit it.",
+    "category": "Productivity",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
